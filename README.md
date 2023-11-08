@@ -1,4 +1,4 @@
-### Obrigado pela visita, fique á vontade!
+### Obrigado pela visita, fique à vontade!
 
 - 🌱 Atualmente estou cursando Engenharia da computação
 - 📫 Contate-me pelo E-mail: vinicius5.lopes@hotmail.com
