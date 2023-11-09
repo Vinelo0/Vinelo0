@@ -1,4 +1,4 @@
-## Seja Bem-Vindo, fiquei à vontade!
+## Seja Bem-vindo, fique à vontade!
 
 - 🌱 Estudando Engenharia da Computação 
 - 💬 Contate-me pelo email: vinicius5.lopes@hotmail.com
