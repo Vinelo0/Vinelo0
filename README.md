@@ -1,7 +1,10 @@
 ## Seja Bem-vindo, fique à vontade!
 
+- 🤖 Trabalho no desenvolvimento de embarcados
+- 🎲 Gosto de trabalhar com banco de dados
 - 🌱 Estudando Engenharia da Computação 
 - 💬 Contate-me pelo email: vinicius5.lopes@hotmail.com
+
 
 <div>
   <a href="https://github.com/Vinelo0">
