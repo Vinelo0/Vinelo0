@@ -1,4 +1,4 @@
-## Seja Bem-vindo, fique à vontade!
+## Seja bem-vindo, fique à vontade!
 
 - 🌱 Estudando Engenharia da Computação 
 - 🤖 Trabalho no desenvolvimento de embarcados
