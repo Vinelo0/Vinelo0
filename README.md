@@ -1,9 +1,4 @@
-## Seja bem-vindo, fique à vontade!
-
-- 🌱 Estudando Engenharia da Computação 
-- 🤖 Trabalho no desenvolvimento de embarcados
-- 🎲 Gosto de trabalhar com banco de dados
-- 💬 Contate-me pelo email: vinicius5.lopes@hotmail.com
+## Seja bem-vindo!
 
 
 <div>
